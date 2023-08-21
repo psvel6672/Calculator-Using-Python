@@ -2,7 +2,7 @@
 
 Author :: Ps Thamizhan
 
-Tool Name :: Screen Recorder
+Tool Name :: Calculator
 
 Version :: 1.0
 
